@@ -11,7 +11,7 @@ so I’ll keep learning little by little through these kinds of basic projects.
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](screenshot.jpg)
 
 ## Author
 
